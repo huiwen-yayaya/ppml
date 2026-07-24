@@ -3,7 +3,7 @@
 
 ## 一、GC（乱码电路）
 
-![alt text](image.png)
+![alt text](gc-def.png)
 from: https://web.mit.edu/sonka89/www/papers/2017ygc.pdf
 
 下面表中都按照机器之间的通讯顺序排列，重在关注client的通讯量。
@@ -41,7 +41,7 @@ $$|F| = 4\ \text{行} \times (\lambda+1)\ \text{字节} \times |{\rm circ}|\ \te
 
 ## 二、FHE（Paillier 实例）
 
-![alt text](image-1.png)
+![alt text](fhe-def.png)
 from: https://doi.org/10.3390/s20154253
 
 | # | 谁发给谁 | 数学符号 | 代码里叫什么 | 测什么 | 实测大小 |
